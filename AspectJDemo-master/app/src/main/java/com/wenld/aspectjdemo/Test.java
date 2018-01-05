@@ -9,11 +9,12 @@ import android.util.Log;
 public abstract class Test {
     public void method(){
         Log.e("childMethod","before...");
-<<<<<<< HEAD
+/*<<<<<<< HEAD
         //1112222222
 =======
         //111wwwwww
->>>>>>> master
+>>>>>>> master*/
+//0
         childMethod();
 
         Log.e("childMethod","after...");
