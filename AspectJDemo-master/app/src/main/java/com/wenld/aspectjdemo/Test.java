@@ -9,7 +9,7 @@ import android.util.Log;
 public abstract class Test {
     public void method(){
         Log.e("childMethod","before...");
-
+        //111
         childMethod();
 
         Log.e("childMethod","after...");
