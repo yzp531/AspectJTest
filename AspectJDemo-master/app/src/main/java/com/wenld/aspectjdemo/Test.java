@@ -14,7 +14,7 @@ public abstract class Test {
 =======
         //111wwwwww
 >>>>>>> master*/
-//0
+//1
         childMethod();
 
         Log.e("childMethod","after...");
