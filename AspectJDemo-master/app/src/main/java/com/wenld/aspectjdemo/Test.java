@@ -10,12 +10,6 @@ public abstract class Test {
     public void method(){
         Log.e("childMethod","before...");
         childMethod();
-
-
-        //2
- 
-        //0
-
         Log.e("childMethod","after...");
     }
     abstract void childMethod();
