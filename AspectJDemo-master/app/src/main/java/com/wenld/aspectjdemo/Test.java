@@ -9,9 +9,8 @@ import android.util.Log;
 public abstract class Test {
     public void method(){
         Log.e("childMethod","before...");
-        //111wwwwww
         childMethod();
-        //00000
+        //0
         Log.e("childMethod","after...");
     }
     abstract void childMethod();
