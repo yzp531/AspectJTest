@@ -1,6 +1,7 @@
 # Built application files
 *.apk
 *.ap_
+.svn
 .DS_Store
 # Files for the ART/Dalvik VM
 *.dex
@@ -15,9 +16,11 @@ out/
 
 # Gradle files
 .gradle/
+<<<<<<< HEAD
+=======
 .idea/
+>>>>>>> 4d8007ab069e28638b8b26b0f5a7e1d7c43d11c3
 build/
-*/build/*
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -35,7 +38,10 @@ proguard/
 captures/
 
 # IntelliJ
-*/.idea/
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4d8007ab069e28638b8b26b0f5a7e1d7c43d11c3
 *.iml
 */.idea/workspace.xml
 */.idea/tasks.xml
@@ -57,4 +63,7 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4d8007ab069e28638b8b26b0f5a7e1d7c43d11c3
