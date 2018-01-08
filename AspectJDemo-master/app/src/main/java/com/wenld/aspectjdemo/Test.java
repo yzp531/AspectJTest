@@ -11,6 +11,7 @@ public abstract class Test {
         Log.e("childMethod","before...");
         childMethod();
 
+        //2
         Log.e("childMethod","after...");
     }
     abstract void childMethod();
